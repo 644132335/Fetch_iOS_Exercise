@@ -1,10 +1,3 @@
-//
-//  MealModel.swift
-//  FetchiOSExercise
-//
-//  Created by Kaiyang Jiang on 6/25/24.
-//
-
 import Foundation
 
 struct Meals: Codable{
